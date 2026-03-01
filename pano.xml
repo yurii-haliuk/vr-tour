@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="22072" appversion="8.0 beta 2" hassounds="0" start="node4">
+  <panorama id="node4">
+    <input height="2900" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2900">
+      <level height="2900" predecode="0" preload="0" width="2900"/>
+      <level height="1450" predecode="0" preload="0" width="1450"/>
+      <level height="725" predecode="1" preload="1" width="725"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="279.39" author="" comment="" copyright="" customnodeid="" datetime="18.09.2024 19:43" description="" heading="300.003" hideinlist="0" info="" latitude="49.85150833" longitude="24.05201389" nodeid="node4" source="" tags="iCloudPhotosfromYuriyHaliuk" title=""/>
+    <view fovmode="2" pannorth="300.003">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="-180" tilt="-46.3749"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="180" tilt="46.3749"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="22.9396" id="Point01" pan="109.3" skinid="ht_node" target="" tilt="4.2" title="Головна сцена" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="2708" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2708">
+      <level height="2708" predecode="0" preload="0" width="2708"/>
+      <level height="1354" predecode="0" preload="0" width="1354"/>
+      <level height="677" predecode="1" preload="1" width="677"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="283.45" author="" comment="" copyright="" customnodeid="" datetime="18.09.2024 16:12" description="" heading="316.775" hideinlist="0" info="" latitude="49.85139167" longitude="24.05175000" nodeid="node1" source="" tags="iCloudPhotosfromYuriyHaliuk" title=""/>
+    <view fovmode="2" pannorth="316.775">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="-180" tilt="-47.9402"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="180" tilt="47.9402"/>
+    </view>
+    <hotspots>
+      <hotspot description="" distance="12.6515" id="Point01" pan="22.13" skinid="ht_node" target="" tilt="-1.62" title="Мала сцена" url="{node2}"/>
+      <hotspot description="" distance="22.9396" id="Point02" pan="-98.7889" skinid="ht_node" target="$fwd" tilt="0" title="Вулиця" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="896" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="896">
+      <level height="896" predecode="1" preload="1" width="896"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="273.62" author="" comment="" copyright="" customnodeid="" datetime="18.09.2024 16:13" description="" heading="341.704" hideinlist="0" info="" latitude="49.85148889" longitude="24.05165833" nodeid="node2" source="" tags="iCloudPhotosfromYuriyHaliuk" title=""/>
+    <view fovmode="2" pannorth="341.704">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="-180" tilt="-46.064"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="180" tilt="46.064"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-143.46" skinid="ht_node" target="$fwd" tilt="-5.1" title="" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" copyright="" description="" tags="" title=""/>
+    <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
+    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+    <hotspots smoothmovement="0">
+      <label background="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" borderalpha="1" bordercolor="0x000000" borderradius="1" enabled="1" height="20" textalpha="1" textcolor="0x000000" width="180" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+  </masternode>
+</tour>
